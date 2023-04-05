@@ -1,0 +1,127 @@
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\appsettings.json
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Sales Order.exe
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Sales Order.deps.json
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Sales Order.runtimeconfig.json
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Sales Order.runtimeconfig.dev.json
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Sales Order.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ref\Sales Order.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Sales Order.pdb
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Sales Order.Views.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Sales Order.Views.pdb
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.csproj.AssemblyReference.cache
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.AssemblyInfoInputs.cache
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.AssemblyInfo.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.csproj.CoreCompileInputs.cache
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.RazorAssemblyInfo.cache
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.RazorAssemblyInfo.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\staticwebassets\Sales Order.StaticWebAssets.Manifest.cache
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\staticwebassets\Sales Order.StaticWebAssets.xml
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\scopedcss\bundle\Sales Order.styles.css
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.TagHelpers.input.cache
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.TagHelpers.output.cache
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.RazorCoreGenerate.cache
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.RazorTargetAssemblyInfo.cache
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.RazorTargetAssemblyInfo.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.Views.pdb
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.dll
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\ref\Sales Order.dll
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.pdb
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.genruntimeconfig.cache
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Sales Order.csproj.CopyComplete
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Humanizer.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dangt\source\repos\Sales Order\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\SalesControllers\Index.cshtml.g.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\SalesControllers\Details.cshtml.g.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\SalesControllers\Create.cshtml.g.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\SalesControllers\Edit.cshtml.g.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\SalesControllers\Delete.cshtml.g.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\SalesControllers\Home.cshtml.g.cs
+C:\Users\dangt\source\repos\Sales Order\obj\Debug\net5.0\Razor\Views\SalesControllers\About.cshtml.g.cs

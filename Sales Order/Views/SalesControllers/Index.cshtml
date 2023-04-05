@@ -1,0 +1,61 @@
+﻿    @model IEnumerable<Sales_Order.Models.Sales>
+
+    @{
+        ViewData["Title"] = "Index";
+    }
+
+    <h1>CRUD Web Application</h1>
+
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Create New</a>
+
+    </p>
+
+
+    <table id="salesOrderTable" class="table table-custom table-striped table-bordered">
+        <!-- Table headers -->
+        <thead>
+            <tr>
+                <th>Sales Order</th>
+                <th>Sales Order Item</th>
+                <th>Work Order</th>
+                <th>Product ID</th>
+                <th>Product Description</th>
+                <th>Order Quantity</th>
+                <th>Order Status</th>
+                <th>Timestamp</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Table rows -->
+            @foreach (var item in Model) {
+                <tr>
+                    <td>@item.SalesOrder</td>
+                    <td>@item.SalesOrderItem</td>
+                    <td>@item.WorkOrder</td>
+                    <td>@item.ProductID</td>
+                    <td>@item.ProductDescription</td>
+                    <td>@item.OrderQuantity.ToString("0")</td>
+                    <td>@item.OrderStatus</td>
+                    <td>@item.Timestamp.ToString("d/M/yy H:mm")</td>
+                    <td>
+                    <div class="btn-group" role="group" aria-label="Action Buttons">
+                        @Html.ActionLink("Edit", "Edit", new { id = item.ID }, new { @class = "btn btn-primary" })
+                        @Html.ActionLink("Details", "Details", new { id = item.ID }, new { @class = "btn btn-info" })
+                        @Html.ActionLink("Delete", "Delete", new { id = item.ID }, new { @class = "btn btn-danger" })
+                    </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+    @section Scripts {
+        <script>
+            $(document).ready(function () {
+                $('#salesOrderTable').DataTable();
+            });
+        </script>
+    }
